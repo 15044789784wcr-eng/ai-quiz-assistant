@@ -97,8 +97,7 @@ ai-quiz-extension/              ← Chrome/Edge 扩展（源码）
   ├─ manifest.json
   ├─ background.js              ← 后台 fetch（绕跨域）
   ├─ content.js                 ← 界面 + 识别 + 解析 + 填入
-  ├─ icons/                     ← 16/32/48/128 图标
-  └─ web-ai-quiz-assistant.user.js   ← 篡改猴用户脚本
-readme    ← 本文件   
+  └─icons/                     ← 16/32/48/128 图标
+web-ai-quiz-assistant.user.js   ← 篡改猴用户脚本  
 README.md                       ← 本说明
 ```
